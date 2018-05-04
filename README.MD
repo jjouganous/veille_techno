@@ -11,6 +11,7 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * Papier sur l'approximation par processus gaussiens : [lien](http://mlg.eng.cam.ac.uk/zoubin/papers/aistats07localGP.pdf)
 
 ## Data science / IA
+[Essential cheat sheets for ML and DL](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 ### Dataviz
 * Tuto sur D3js : [lien](http://alignedleft.com/tutorials/d3).
 * [Easy Highcharts](http://nbviewer.jupyter.org/github/oscar6echo/ezhc/blob/master/demo_ezhc.ipynb) : lib python pour des charts interactifs
@@ -21,6 +22,7 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * Collection de modèles deep préentrainés pour TensorFlow : [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * entrainement ditribué pour TensorFlow : [lien](https://github.com/uber/horovod?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * implémentation de modèles GAN en Keras : [lien](https://github.com/eriklindernoren/Keras-GAN)
+* [article](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) sur les LSTM.
 
 ### Machine learning
 * Highlight sur 30 projets machine learning en 2017 : [lien](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7).
@@ -28,6 +30,8 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * Importance de features pour XGBoost : [lien](https://github.com/Far0n/xgbfi)
 * explication de modèles : [lien](https://github.com/slundberg/shap#xgboost-lightgbm-example)
 * Post sur 5 algos de clustering : [lien](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+* article pas mal fait sur la régression logistique : [lien](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+* [post](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9) sur les métriques d'évaluation
 
 ### NLP
 * [fastText](https://github.com/facebookresearch/fastText?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : librairie pour la représentation et la classification de text.
@@ -36,13 +40,23 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * framework pour le speech-to-text : [lien](https://github.com/buriburisuri/speech-to-text-wavenet?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * explications sur Word2Vec : [lien](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 * [snips](https://github.com/snipsco/snips-nlu) : lib pour la compréhension du langage (extraction d'intent...)
+* article sur la modélisation du langage au caractère : [lien](https://towardsdatascience.com/character-level-language-model-1439f5dd87fe)
 
 ## Python
 * Documentation de virtualenvwrapper : [lien](https://virtualenvwrapper.readthedocs.io/en/latest/)
 * [ray](https://rise.cs.berkeley.edu/blog/pandas-on-ray/) : une version accélérée de pandas
+* Quelques optimisation d'opérations sur des DataFrame pandas [lien](https://github.com/mm-mansour/Fast-Pandas)
+* article medium sur [jupyterlab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+* [best of python 2017/2018](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)(orienté ML)
 
 ## Programmation
 * [Flotilla](https://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/) : une lib d'abstraction au dessus de Docker. 
+* [tuto sur les lignes de commandes.](https://medium.com/@kadek/command-line-tricks-for-data-scientists-c98e0abe5da)
 
 ## Outils
 * article de blog sur [Google Colaboratory](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+* [Airflow](https://airflow.apache.org/), un outil pour planifier et organiser des jobs.
+* [Luigi](https://pypi.python.org/pypi/luigi), package python pour gérer des pipelines de jobs
+
+## Hardware
+*[article](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415) sur le hardware Deep Learning.
