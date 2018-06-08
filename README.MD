@@ -23,8 +23,10 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * entrainement ditribué pour TensorFlow : [lien](https://github.com/uber/horovod?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * implémentation de modèles GAN en Keras : [lien](https://github.com/eriklindernoren/Keras-GAN)
 * [article](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) sur les LSTM.
+* Algo de traitement d'image : ["learning to see in the dark"](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 
 ### Machine learning
+Livres sur la théorie : [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf) et [pattern recognition and machine learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
 * Highlight sur 30 projets machine learning en 2017 : [lien](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7).
 * Optimisation pour XGBoost : [lien](http://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.html)
 * Importance de features pour XGBoost : [lien](https://github.com/Far0n/xgbfi)
@@ -43,11 +45,21 @@ Le but de ce projet est de regrouper différents liens, documents, articles de v
 * article sur la modélisation du langage au caractère : [lien](https://towardsdatascience.com/character-level-language-model-1439f5dd87fe)
 
 ## Python
+* [Python 3 Module of the Week](https://pymotw.com/3/)
 * Documentation de virtualenvwrapper : [lien](https://virtualenvwrapper.readthedocs.io/en/latest/)
 * [ray](https://rise.cs.berkeley.edu/blog/pandas-on-ray/) : une version accélérée de pandas
 * Quelques optimisation d'opérations sur des DataFrame pandas [lien](https://github.com/mm-mansour/Fast-Pandas)
 * article medium sur [jupyterlab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
 * [best of python 2017/2018](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)(orienté ML)
+* [pylint](https://github.com/PyCQA/pylint/) : linter pour python
+
+### Std lib
+[lien](https://docs.python.org/3/library/index.html) vers la page officielle
+* [enum](https://docs.python.org/3/library/enum.html) : gestion des constantes dans une classe
+* [pathlib](https://docs.python.org/3/library/pathlib.html) : une version évoluée de *os.path*
+* [tracemalloc](https://docs.python.org/3/library/tracemalloc.html) : debuggeur haut niveau
+* [typing](https://docs.python.org/3/library/typing.html) : typage à destination des IDE. Peut aussi être vu par [mypy](http://mypy.readthedocs.io/en/latest/basics.html#running-mypy)
+* [zipapp](https://docs.python.org/3/library/zipapp.html) : exécuter un projet zippé (sorte de containerisation)
 
 ## Programmation
 * [Flotilla](https://multithreaded.stitchfix.com/blog/2018/02/22/flotilla/) : une lib d'abstraction au dessus de Docker. 
