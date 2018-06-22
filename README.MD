@@ -36,6 +36,7 @@ Livres sur la théorie : [The Elements of Statistical Learning](https://web.stan
 * [post](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9) sur les métriques d'évaluation
 
 ### NLP
+* [cours de Stanford](https://github.com/khanhnamle1994/natural-language-processing)
 * [fastText](https://github.com/facebookresearch/fastText?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : librairie pour la représentation et la classification de text.
 * Tuto (basique) sur le NLP : [lien](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e).
 * [ParlAI](https://github.com/facebookresearch/ParlAI?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) framework pour l'évaluation de modèles de dialogue.
